@@ -1,2 +1,7 @@
 Cursos Caelum
 Eclipse IDE
+Associações:
+Uma associação é uma relação vertical. Diferente de herança em que uma classe filha herda da classe mãe e além disso é também uma mãe - Ex: aluno é um pessoa - a associação utilizado como ter - Ex: Um carro tem pneu.
+
+Agregação é um tipo de agregação fraca. Quando uma classe utliza outras classes (objetos) e essas outras classes funcionam também independentemente.
+Ex: Universidade contém professor.
